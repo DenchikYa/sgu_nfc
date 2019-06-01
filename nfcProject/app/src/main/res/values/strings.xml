@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NFC app</string>
+    <string name="back">Back</string>
+    <string name="questOne">В дрожь бросает агрегат, В нём то оттепель, то стужа, Он работе очень рад, А отключишь – сядет в лужу.</string>
+    <string name="questTwo">Он и дома — и не дома, Между небом и землёй. Догадайся-ка, дружок, Что зашифровал стишок?</string>
+    <string name="questThree">Дом из жести, а жильцы в нём — вести.</string>
+</resources>

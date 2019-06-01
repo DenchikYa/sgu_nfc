@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="count_find">0</integer>
+    <bool name="check_quest_one">false</bool>
+    <bool name="check_quest_two">false</bool>
+    <bool name="check_quest_three">false</bool>
+</resources>
